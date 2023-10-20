@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+    "description": "Bulbasaur is a dual-type Grass/Poison Pokémon known for the plant bulb on its back."
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "description": "Charmander is a Fire-type Pokémon with a flame at the end of its tail."
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+    "description": "Squirtle is a Water-type Pokémon with a turtle-like appearance."
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "description": "Pikachu is an Electric-type Pokémon known for its lightning-fast speed and cute appearance."
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
+    "description": "Pidgey is a Normal/Flying-type Pokémon often found in the wild."
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
+    "description": "Rattata is a Normal-type Pokémon known for its quickness and sharp front teeth."
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
+    "description": "Caterpie is a Bug-type Pokémon with a soft, vulnerable body."
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "imageUrl": "https://assetsio.reedpopcdn.com/pokemon_go_jigglypuff_thumbnail.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+    "description": "Jigglypuff is a Normal/Fairy-type Pokémon famous for its singing ability."
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
+    "description": "Meowth is a Normal-type Pokémon often associated with wealth."
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+    "description": "Eevee is a Normal-type Pokémon with the unique ability to evolve into various forms."
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "imageUrl": "https://img.pokemondb.net/artwork/large/dratini.jpg",
+    "description": "Dratini is a Dragon-type Pokémon known for its serpentine body."
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "imageUrl": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-blue-version/9/90/Magnemite.gif",
+    "description": "Magnemite is an Electric/Steel-type Pokémon with magnetic properties."
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
+    "description": "Koffing is a Poison-type Pokémon known for its toxic gas emissions."
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "imageUrl": "https://static.wikia.nocookie.net/tmnt-x-pokemon/images/b/bb/Growlithe.png/revision/latest/scale-to-width-down/711?cb=20180111175638",
+    "description": "Growlithe is a Fire-type Pokémon with a loyal and protective nature."
+  },
+  {
+    "id": 147,
+    "name": "Porygon",
+    "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
+    "description": "Porygon is a Normal-type Pokémon known for its artificial, computer code-like appearance."
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "imageUrl": "https://i.pinimg.com/564x/ab/cc/61/abcc61455a42acd42e58aec4a5abdf45.jpg",
+    "description": "Horsea is a Water-type Pokémon resembling a small seahorse."
+  }
+]
